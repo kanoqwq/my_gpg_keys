@@ -1,1 +1,1 @@
-my GPG public key
+my GPG public key and keychain
